@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ This\ class\ creates\ a\ \ library\ system\ that\ manages\ a\ collection\ of\ books.\r\n\ It\ allows\ users\ to\ add\ books,\ borrow\ books,\ return\ books,\ remove\ books,\ and\ view\ available\ books.\r\n\ Additionally,\ it\ provides\ information\ about\ the\ library's\ address\ and\ opening\ hours.\r\n\ \r\n\ @author\ Caelum\ Casserly,\ Liam\ Shearer\ \r\n\ @version\ (29/11/24)\r\n
+comment1.params=address
+comment1.target=Library(java.lang.String)
+comment2.params=book
+comment2.target=void\ addBook(Book)
+comment3.params=
+comment3.target=void\ printOpeningHours()
+comment4.params=
+comment4.target=void\ printAddress()
+comment5.params=barCodeNumber
+comment5.target=void\ borrowBook(int)
+comment6.params=barCodeNumber
+comment6.target=void\ returnBook(int)
+comment7.params=
+comment7.target=void\ printAvailableBooks()
+comment8.params=barCodeNumber
+comment8.target=void\ removeBook(int)
+comment9.params=
+comment9.target=void\ printAllAuthors()
+numComments=10
